@@ -9,14 +9,14 @@ This project includes Bash scripts to monitor AWS and Azure cloud infrastructure
 - **Logging**: Logs all security events for auditing.
 
 ## How to Run
-1. Clone the repo: `git clone https://github.com/yourusername/cloud-security-scripts.git`
-2. Install dependencies:
+
+1. Install dependencies:
    - AWS CLI: `sudo apt install awscli`
    - Azure CLI: `sudo apt install azure-cli`
-3. Configure AWS and Azure credentials:
+2. Configure AWS and Azure credentials:
    - AWS: `aws configure`
    - Azure: `az login`
-4. Run the scripts:
+3. Run the scripts:
    - AWS: `bash scripts/aws-monitor.sh`
    - Azure: `bash scripts/azure-monitor.sh`
 
