@@ -1,0 +1,8 @@
+# AWS CLI
+awscli
+
+# Azure CLI
+azure-cli
+
+# Mail utility for alerts
+mailutils
